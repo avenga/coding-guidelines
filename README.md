@@ -3,5 +3,5 @@ Guidelines, recommendations, linting, formating and IDE configs provided and use
 
 ## Table of Contents
 
-* [Avenga GitHub rules](general/Git-rules.md)
+* [Avenga Git Guidelines](general/avenga-git-guidelines.md)
 * [Readme Day](general/readme-day.md)
