@@ -7,3 +7,4 @@ Guidelines, recommendations, linting, formating and IDE configs provided and use
 - [Avenga Git Guidelines](general/avenga-git-guidelines.md)
 - [README Template](doc-templates/README.md)
 - [Readme Day](general/readme-day.md)
+- [Node Dependency Management](general/dependency-management.md)
