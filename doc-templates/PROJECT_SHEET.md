@@ -1,4 +1,4 @@
-# Project Sheet - [PRoject Name]
+# Project Sheet - [Project Name]
 
 ## General Information
 
