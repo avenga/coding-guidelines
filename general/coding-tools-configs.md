@@ -1,6 +1,6 @@
-# Avenga Frontend Configs
+# Avenga Coding Tools Configs
 
-This file contains baseline configurations for Avenga tools commonly used when developing frontends.
+This file contains baseline configurations for tool assisted developing at Avenga.
 
 Table of contents:
 
@@ -24,6 +24,11 @@ end_of_line = lf
 charset = utf-8
 insert_final_newline = true
 trim_trailing_whitespace = true
+
+# markdown syntax is incompatible with trimmed whitespace
+[*.md]
+insert_final_newline = false
+trim_trailing_whitespace = false
 ```
 
 ## Prettier
