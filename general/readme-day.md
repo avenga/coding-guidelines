@@ -23,7 +23,9 @@ The following steps are one possible way for the Readme Day:
 1. Revert your project to a blank slate by either
    1. Deleting the whole project code from your local machine and geting a fresh copy from your git repository _OR_
    2. Running `git clean -xdf` to delete any and all untracked files from the repository. __Make sure that you can recover any deleted secrets or similar data before you do this!__
-2. Follow the steps in the README to set up the project for development
-3. Check if everything works as documented
+2. Make sure all necessary files are included in the project: [README](../doc-templates/README.md), [PROJECT_SHEET.md](../doc-templates/PROJECT_SHEET.md)
+3. Follow the steps in the README to set up the project for development
+4. Check if everything works as documented
+5. Make sure the project sheet is up-to-date
 
 If possible, fix all identified problems directly and update the README regardingly. Otherwise try to schedule the issues to have them fixed at least until the next Readme Day.
