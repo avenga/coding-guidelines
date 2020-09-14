@@ -10,12 +10,14 @@
 
 ## URLs & Credentials
 
-|                 |                                                                                        |
-| --------------- | -------------------------------------------------------------------------------------- |
-| __Development__ | [link to web URL of development environment] |
-| __Repository__  | [link to git repo] |
-| __Readme__      | [link to README.md] |
-| __Code Style__  | <https://github.com/avenga/coding-guidelines> |
+|                     |                                                                                        |
+| ---------------     | -------------------------------------------------------------------------------------- |
+| __Development__     | [link to web URL of development environment] |
+| __Repository__      | [link to git repo] |
+| __Product backlog__ | [link to web URL of product backlog] |
+| __Readme__          | [link to README.md] |
+| __Changelog__       | [link to CHANGELOG.md] |
+| __Code Style__      | <https://github.com/avenga/coding-guidelines> |
 
 ## Languages
 
@@ -46,7 +48,11 @@ _Note_: Most technologies are tracked in `package.json` files and will not be du
 | nyc          | see `package.json`s | backend & etl |
 | Jest         | see `package.json`  | frontend      |
 
-Coverage summary is tracked in each build on GitLab.
+Coverage summary is tracked in each build on GitLab ([link]).
+
+## Manual testing
+
+Link to test scenarios: [link]
 
 ## Logging/Monitoring
 
@@ -63,3 +69,25 @@ The client hosts on-premise using VMs.
 | Avenga Hosting | for development only                                                                          |
 | CI             | Compile check, linting, tests on GitLab for MRs and pushes to `master` by GitLab CI           |
 | CD             | `master` commits can be triggered manually to be deployed to the dev environment by GitLab CI |
+
+## External integrations
+
+List of external integrations:
+
+| Integration    | Notes                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------- |
+| GTM            | Acount name and infromation about administrator name                                          |
+
+
+## API documentation
+
+Link to Swagger: [swagger]
+
+## Actors/User roles
+
+| Actor          | Role   | Description                           |
+| -------------- | ------ | --------------------------------------|
+| Administrator  | Admin  | Setup new users etc.                  |
+| Editor         | Editor | Adding content                        |
+| Visitor        | none   | Visiting website                      |
+
