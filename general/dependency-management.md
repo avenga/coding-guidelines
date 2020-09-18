@@ -18,9 +18,7 @@ There are three reasons why you would want to update a dependency on existing pr
 
 If you currently don't experience any problems with your dependencies, save yourself the hassle, and **don't blindly update**.
 
-You can automate the process of checking for problems with your dependencies by using Tools like Dependabot or Greenkeeper.
-
-At Avenga projects can easily integrate a preinstalled version of Renovate Bot with gitlab.
+You can automate the process of checking for problems with your dependencies by using Tools like Renovate Bot, Dependabot or Greenkeeper.
 
 ### Security Issues
 
