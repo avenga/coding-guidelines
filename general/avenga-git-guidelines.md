@@ -3,7 +3,7 @@
 ## Commits
 * **JIRA ticket code:** Always add JIRA ticket code wrapped in square brackets to the end of your commit message, example: "CoreBase: Redesign Lists page **[CB-75]**".
 * **Sub-project's name prefix:** If project consists of several sub-projects like iOS app, Android app, web app, etc, use sub-project's name as a prefix of commit message, for example: "**Android:** Add login screen [CB-101]", "**iOS:** Time reporting screen redesign [CB-102]", "**CoreBase:** Redesign phase 1 [CB-103]", etc.
-* **Clean commits:** Commits must only contain changes related to the task/feature you are working on.
+* **Clean commits:** Changes not related to the task/feature you are working on (code clean up, refactor, typo fixes etc.) should be included in separate commits.
 * **No commits straight to develop**
 
 ## Branches
