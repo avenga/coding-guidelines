@@ -2,29 +2,29 @@
 
 ## General Information
 
-|                       |                                                    |                              |                             |
-| --------------------- | -------------------------------------------------- | ---------------------------- | --------------------------- |
-| __Client__            | [client name]                                      | __Project Manager__          | [project manager name]      |
-| __Tech Lead__         | [tech lead name]                                   | __Status__                   | [status]                    |
-| __Planned Lifecycle__ | [lifecycle name and Date 1]                        | [lifecycle name and Date 2]  | [lifecycle name and Date 3] |
+|                       |                             |                             |                             |
+| --------------------- | --------------------------- | --------------------------- | --------------------------- |
+| **Client**            | [client name]               | **Project Manager**         | [project manager name]      |
+| **Tech Lead**         | [tech lead name]            | **Status**                  | [status]                    |
+| **Planned Lifecycle** | [lifecycle name and Date 1] | [lifecycle name and Date 2] | [lifecycle name and Date 3] |
 
 ## URLs & Credentials
 
-|                     |                                                                                        |
-| ---------------     | -------------------------------------------------------------------------------------- |
-| __Development__     | [link to web URL of development environment] |
-| __Repository__      | [link to git repo] |
-| __Product backlog__ | [link to web URL of product backlog] |
-| __Readme__          | [link to README.md] |
-| __Changelog__       | [link to CHANGELOG.md] |
-| __Code Style__      | <https://github.com/avenga/coding-guidelines> |
+|                     |                                               |
+| ------------------- | --------------------------------------------- |
+| **Development**     | [link to web URL of development environment]  |
+| **Repository**      | [link to git repo]                            |
+| **Product backlog** | [link to web URL of product backlog]          |
+| **Readme**          | [link to README.md]                           |
+| **Changelog**       | [link to CHANGELOG.md]                        |
+| **Code Style**      | <https://github.com/avenga/coding-guidelines> |
 
 ## Languages
 
-* TypeScript
-* JavaScript
-* Bash
-* SCSS
+- TypeScript
+- JavaScript
+- Bash
+- SCSS
 
 ## Technologies
 
@@ -74,10 +74,9 @@ The client hosts on-premise using VMs.
 
 List of external integrations:
 
-| Integration    | Notes                                                                                         |
-| -------------- | --------------------------------------------------------------------------------------------- |
-| GTM            | Acount name and infromation about administrator name                                          |
-
+| Integration | Notes                                                |
+| ----------- | ---------------------------------------------------- |
+| GTM         | Acount name and infromation about administrator name |
 
 ## API documentation
 
@@ -85,9 +84,13 @@ Link to Swagger: [swagger]
 
 ## Actors/User roles
 
-| Actor          | Role   | Description                           |
-| -------------- | ------ | --------------------------------------|
-| Administrator  | Admin  | Setup new users etc.                  |
-| Editor         | Editor | Adding content                        |
-| Visitor        | none   | Visiting website                      |
-
+| Actor         | Role   | Description          | Contact information |
+| ------------- | ------ | -------------------- | ------------------- |
+| **Avenga**    |
+| Administrator | Admin  | Setup new users etc. | user@example.com    |
+| Editor        | Editor | Adding content       | user@example.com    |
+| Visitor       | none   | Visiting website     | user@example.com    |
+| **Client**    |
+| Administrator | Admin  | Setup new users etc. | user@example.com    |
+| Editor        | Editor | Adding content       | user@example.com    |
+| Visitor       | none   | Visiting website     | user@example.com    |
