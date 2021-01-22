@@ -12,3 +12,5 @@ Guidelines, recommendations, linting, formating and IDE configs provided and use
 - [Code Review Rules](general/Code-review-rules.md)
 - [Front-end Security Guidelines](general/front-end-security-guidelines.md)
 - [Coding Tools Configurations](general/coding-tools-configs.md)
+- [Documentation Day](general/documentation-day.md)
+- [Documentation Guidelines](general/documentation-guide.md)
