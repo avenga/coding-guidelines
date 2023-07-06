@@ -12,7 +12,17 @@ Assigning all involved developers to execute a Documentation Day, one after anot
 
 The following steps are one possible way for the Documentation Day:
 
-tbd
+1. Read the readme and contributing file to get a brief overview
+2. Setup the project
+3. Take an arbitrary task and start adding a feature or fixing a bug
+4. Check the related documentation (if already exist).
+
+An alternative might be to focus on the documentation of a specific feature.
+
+1. Ask any project member to name three arbitrary features
+2. Select your favourite dice and roll ...
+3. Read the documentation of the feature your dice has chosen
+4. Check for inconsistencies and incomprehensions.
 
 If possible, fix all identified problems directly and update the documentation regardingly. Otherwise try to schedule the issues to have them fixed at least until the next Documentation Day.
 
