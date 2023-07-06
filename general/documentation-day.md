@@ -6,6 +6,16 @@ The general idea is that every project has a regular day when the documentation 
 
 The main goal of the Documentation Day is to **establish and maintain confidence in the documentation**.
 
+## Where to Start
+
+Assigning all involved developers to execute a Documentation Day, one after another, is a good idea. Introducing new developers by having them execute the Documentation Day will provide great insight and valuable feedback, as well as asking developers who are not involved in the project.
+
+The following steps are one possible way for the Documentation Day:
+
+tbd
+
+If possible, fix all identified problems directly and update the documentation regardingly. Otherwise try to schedule the issues to have them fixed at least until the next Documentation Day.
+
 ## Necessity, Frequency and Duration
 
 The lifespan of a project, the frequency of code contributions as well as the number of contributors are factors for the necessity and frequency of a Documentation Day. If the development from start to finish is about 3 weeks or code contributions are not regular enough, a Documentation Day is not necessary. In this case the documentation should be checked as part of the QA phase.
