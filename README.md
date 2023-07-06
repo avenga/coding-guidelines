@@ -13,3 +13,5 @@ Guidelines, recommendations, linting, formating and IDE configs provided and use
 - [Front-end Security Guidelines](general/front-end-security-guidelines.md)
 - [Security Checklist](general/security-checklist.md)
 - [Coding Tools Configurations](general/coding-tools-configs.md)
+- [Documentation Day](general/documentation-day.md)
+- [Documentation Guidelines](general/documentation-guide.md)
